@@ -1,4 +1,4 @@
-# applied_finance_projects
+# Sharpe Ratio:applied_finance_projects
 quantitative finance
 
 Project Description
