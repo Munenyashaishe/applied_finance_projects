@@ -6,15 +6,15 @@ When you assess whether to invest in an asset, you want to look not only at how 
 
 In this project we apply the Sharpe ratio to real financial data using pandas.
 
-1. Credit card applications
-2. Inspecting the applications
-3. Splitting the dataset into train and test sets
-4. Handling the missing values (part i)
-5. Handling the missing values (part ii)
-6. Handling the missing values (part iii)
-7. Preprocessing the data (part i)
-8. Preprocessing the data (part ii)
-9. Fitting a logistic regression model to the train set
-10. Making predictions and evaluating performance
-11. Grid searching and making the model perform better
-12. Finding the best performing model
+Project Tasks
+1. Meet Professor William Sharpe
+2. A first glance at the data
+3. Plot & summarize daily prices for Amazon and Facebook
+4. Visualize & summarize daily values for the S&P 500
+5. The inputs for the Sharpe Ratio: Starting with Daily Stock Returns
+6. Daily S&P 500 returns
+7. Calculating Excess Returns for Amazon and Facebook vs. S&P 500
+8. The Sharpe Ratio, Step 1: The Average Difference in Daily Returns Stocks vs S&P 500
+9. The Sharpe Ratio, Step 2: Standard Deviation of the Return Difference
+10. Putting it all together
+11. Conclusion
